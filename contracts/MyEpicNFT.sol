@@ -1,4 +1,9 @@
 pragma solidity 0.8.1;
+/*
+First dapp on ETH blockchain
+By Luis Gonzalez
+Following the tutorial on app.buildspace.so
+*/
 
 // We need some util functions for strings.
 import "@openzeppelin/contracts/utils/Strings.sol";
